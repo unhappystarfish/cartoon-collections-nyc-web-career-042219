@@ -17,6 +17,6 @@ def long_planeteer_calls(calls)
 end
 
 def find_the_cheese(array)
-  if array.include? 
+  if 
   
 end
